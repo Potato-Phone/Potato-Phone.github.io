@@ -8,16 +8,21 @@
     <body style="background-color: lightcyan;"></body>
     <font face="verdana" size="5px">
             <header>
-            <h1><center><font size="+10">PotatoBoi's Programming Projects</font></center></h1><br><br><br><br>
+            <h1><center><font size="+10">PotatoBoi's Website!</font></center></h1><br><br><br><br>
             </header>
                 <main>
                 <h1><center><font size="+3">About Me</font></center></h1>
-                    I am PotatoBoi a programmer who mainly specializes in Python and Lua i have been coding since 2019 and speedrunning
+                    I am PotatoBoi a programmer who mainly codes in Python and Lua i have been coding since 2019 and enjoy speedrunning
                     <center>games such as: Minecraft, Karlson, And Roblox Obbys</center>
                 <hr><br>
-                <h1><center><font size="+10">Solo Roblox Games</font></center></h1>
+                <h1><center><font size="+10">Small projects i have made</font></center></h1>
+                <center><b><font size="+4"><a href="https://web.roblox.com/games/7056931706/Place-Number">Terrain Generation</a></font></b><br></center>
+                <center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871572761770872832/unknown.png" alt="Sorry Image Couldnt Load"></center>
+                <center>Terrain generation using Perlin Noise</center>
                 <hr><br>
-                    <center><b><font size="+4">Noob Simulator</font></b><br></center>
+                <h1><center><font size="+10">Solo Roblox Games I Have Made</font></center></h1>
+                <hr><br>
+                    <center><b><font size="+4"><a href="https://web.roblox.com/games/4149763742/Noob-Simulator">Noob Simulator</a></font></b><br></center>
                     <center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871173612088995900/unknown.png" alt="Sorry Image Couldnt Load"></center>
                     <b><font size="+4"><center>What it is:</center></font></b>
                     <center>Noob simulator is a basic <a href="https://roblox.fandom.com/wiki/Simulator">Simulator</a> game the goal of the game is to kill noobs although it had quite a few bugs because it used alot of free models</center>
@@ -33,9 +38,31 @@
                 <br><hr>
                     <center><b><font size="+4">Pirates!</font></b></center>
                     <center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871453566387232818/unknown.png"></center>
-                    <center>Text</center>
+                                        <b><font size="+4"><center>What it is:</center></font></b>
+                    <center>Pirates is a pvp game where you buy weapons such as cannons and swords and use them to kill other players</center><br>
+                    <center><font size="+3">Bugs:</font></center><hr>
+                    <center><font size="+5">Shop</font></center><br><center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871535259672526848/unknown.png" alt="Sorry Image Couldnt Load"></center><br>
+                    <center>Shop does not open</center><br>
+                    <center></center><br>
+                    <center><font size="+5">Weapons</font></center><br>
+                    <center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871541377287192596/unknown.png" alt="Sorry Image Couldnt Load"></center><br>
+                    <center>Weapons do not deal damage</center>
+
                 <br><hr>
-                <h1><center><font size="+10">Group Roblox Games</font></center></h1>
+                <center><b><font size="+4"><a href="https://web.roblox.com/games/4441900566/Raiding-The-Snowy-Temple-Obby">Snowy Temple Obby</a></font></b><br></center>
+                <center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871575192269377536/unknown.png" alt="Sorry Image Couldnt Load"></center>
+                <center>Simple Obby Game</center>
+                <hr>
+                <h1><center><font size="+10">Team Roblox Games</font></center></h1>
+                    <center>No team games have been created by me yet! lets change that message me at "potato boi#6274"</center>
+                <hr><br>
+                <h1><center><font size="+10">Small commision projects</font></center></h1>
+                <center><b><font size="+4">Door</font></b></center><br>
+                <center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871569598569386074/unknown.png" alt="Sorry Image Couldnt Load"></center><br>
+                <center>Just a simple door that uses E to open it</center><br>
+                <center><b><font size="+4">Intro Screen</font></b></center><br>
+                <center><img src="https://cdn.discordapp.com/attachments/857449570904965140/871570342680858644/unknown.png"></center><br>
+                <center>This is a basic intro screen that i made modified from a pre existing asset</center>
                 <hr><br>
                 <h1><center><font size="+10">Other</font></center></h1>
                 <hr><br>
